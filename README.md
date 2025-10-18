@@ -76,12 +76,7 @@ Convert raw data into:
 
 ## Citation (Template)
 ```
-@misc{yourproject2025,
-  title={Development and Evaluation of a Novel Framework Integrating LLMs, GNNs, and RL for Network Traffic Prediction and Optimization},
-  author={Your Name},
-  year={2025},
-  url={https://example.com}
-}
+Odoh, J. (2025). Development and evaluation of a novel framework integrating LLMs, GNNs, and RL for network traffic prediction and optimization. Retrieved October 18, 2025
 ```
 
 ## License
