@@ -1,0 +1,142 @@
+[
+  {
+    "steps": 1000,
+    "avg_reward": 15.329798711600898,
+    "avg_latency": 8.727589283626326,
+    "avg_throughput": 67.11197784471354,
+    "avg_packet_loss": 0.2749999999999999
+  },
+  {
+    "steps": 2000,
+    "avg_reward": 13.158486352625053,
+    "avg_latency": 8.940388882207234,
+    "avg_throughput": 60.219412169571754,
+    "avg_packet_loss": 0.27321428571428563
+  },
+  {
+    "steps": 3000,
+    "avg_reward": 13.84860956265785,
+    "avg_latency": 9.425519473589938,
+    "avg_throughput": 63.65218337912844,
+    "avg_packet_loss": 0.33392857142857146
+  },
+  {
+    "steps": 4000,
+    "avg_reward": 12.60827883597738,
+    "avg_latency": 9.060595780142298,
+    "avg_throughput": 58.94763670587605,
+    "avg_packet_loss": 0.3410714285714286
+  },
+  {
+    "steps": 5000,
+    "avg_reward": 13.894540368145693,
+    "avg_latency": 9.54187852847201,
+    "avg_throughput": 63.96112258412948,
+    "avg_packet_loss": 0.32678571428571435
+  },
+  {
+    "steps": 6000,
+    "avg_reward": 13.819856497646654,
+    "avg_latency": 9.237624500253638,
+    "avg_throughput": 63.128895825911584,
+    "avg_packet_loss": 0.31250000000000006
+  },
+  {
+    "steps": 7000,
+    "avg_reward": 13.04158459023488,
+    "avg_latency": 9.017858574660503,
+    "avg_throughput": 60.111236734740906,
+    "avg_packet_loss": 0.3017857142857144
+  },
+  {
+    "steps": 8000,
+    "avg_reward": 14.042833832851446,
+    "avg_latency": 8.823747044009853,
+    "avg_throughput": 63.0395007066641,
+    "avg_packet_loss": 0.28571428571428575
+  },
+  {
+    "steps": 9000,
+    "avg_reward": 13.890685578594562,
+    "avg_latency": 9.197689590973669,
+    "avg_throughput": 63.19367267550941,
+    "avg_packet_loss": 0.2928571428571428
+  },
+  {
+    "steps": 10000,
+    "avg_reward": 13.483850986361565,
+    "avg_latency": 9.055639098910959,
+    "avg_throughput": 61.59128273843778,
+    "avg_packet_loss": 0.2910714285714285
+  },
+  {
+    "steps": 11000,
+    "avg_reward": 13.678471463999523,
+    "avg_latency": 8.930619237063377,
+    "avg_throughput": 61.9459369417707,
+    "avg_packet_loss": 0.2749999999999999
+  },
+  {
+    "steps": 12000,
+    "avg_reward": 14.008287693509839,
+    "avg_latency": 8.484950563562967,
+    "avg_throughput": 62.3215908700187,
+    "avg_packet_loss": 0.27857142857142864
+  },
+  {
+    "steps": 13000,
+    "avg_reward": 15.002936757103644,
+    "avg_latency": 8.519835657272257,
+    "avg_throughput": 65.61903909532306,
+    "avg_packet_loss": 0.26428571428571423
+  },
+  {
+    "steps": 14000,
+    "avg_reward": 13.871799193754285,
+    "avg_latency": 8.662993376982202,
+    "avg_throughput": 62.03955770272273,
+    "avg_packet_loss": 0.25535714285714284
+  },
+  {
+    "steps": 15000,
+    "avg_reward": 14.463089463854633,
+    "avg_latency": 9.064200134519629,
+    "avg_throughput": 64.78396510371482,
+    "avg_packet_loss": 0.27499999999999997
+  },
+  {
+    "steps": 16000,
+    "avg_reward": 14.487424245262014,
+    "avg_latency": 8.534033276236574,
+    "avg_throughput": 63.88623151602958,
+    "avg_packet_loss": 0.25714285714285706
+  },
+  {
+    "steps": 17000,
+    "avg_reward": 13.970543496508649,
+    "avg_latency": 8.554102988277576,
+    "avg_throughput": 62.2729356831105,
+    "avg_packet_loss": 0.27142857142857135
+  },
+  {
+    "steps": 18000,
+    "avg_reward": 13.890044250324149,
+    "avg_latency": 9.084577957861145,
+    "avg_throughput": 62.97444409751573,
+    "avg_packet_loss": 0.2874999999999999
+  },
+  {
+    "steps": 19000,
+    "avg_reward": 14.007203560889357,
+    "avg_latency": 8.38093439306102,
+    "avg_throughput": 62.07795014378051,
+    "avg_packet_loss": 0.26607142857142846
+  },
+  {
+    "steps": 20000,
+    "avg_reward": 12.79208594145695,
+    "avg_latency": 8.618655507030763,
+    "avg_throughput": 58.45233136419348,
+    "avg_packet_loss": 0.27142857142857135
+  }
+]

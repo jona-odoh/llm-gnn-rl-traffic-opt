@@ -1,0 +1,452 @@
+[
+  {
+    "latency": 4.977140187040236,
+    "throughput": 46.87402440686412,
+    "packet_loss": 0.0,
+    "congestion_edges": 0,
+    "reward": 11.57363722853912,
+    "step": 0,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 5.158756444526911,
+    "throughput": 57.65282131847172,
+    "packet_loss": 0.0,
+    "congestion_edges": 0,
+    "reward": 14.716468173278061,
+    "step": 1,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 5.43867390144364,
+    "throughput": 47.488946713851576,
+    "packet_loss": 0.03571428571428571,
+    "congestion_edges": 1,
+    "reward": 11.470204206290793,
+    "step": 2,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 5.805982334642273,
+    "throughput": 82.07847741812672,
+    "packet_loss": 0.07142857142857142,
+    "congestion_edges": 2,
+    "reward": 21.606266343831162,
+    "step": 3,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 6.1163044141639995,
+    "throughput": 59.704526789008554,
+    "packet_loss": 0.07142857142857142,
+    "congestion_edges": 2,
+    "reward": 14.738920115334853,
+    "step": 4,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 6.3530479312342925,
+    "throughput": 61.68877366397847,
+    "packet_loss": 0.14285714285714285,
+    "congestion_edges": 4,
+    "reward": 15.101536705004968,
+    "step": 5,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 6.677230322167975,
+    "throughput": 69.15193888889287,
+    "packet_loss": 0.14285714285714285,
+    "congestion_edges": 4,
+    "reward": 17.178395077012446,
+    "step": 6,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 6.858940351625706,
+    "throughput": 60.42257701720746,
+    "packet_loss": 0.17857142857142858,
+    "congestion_edges": 5,
+    "reward": 14.411588643635097,
+    "step": 7,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.018007498921241,
+    "throughput": 41.70090043041692,
+    "packet_loss": 0.17857142857142858,
+    "congestion_edges": 5,
+    "reward": 8.715552093950171,
+    "step": 8,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.163172278366114,
+    "throughput": 64.1693290498994,
+    "packet_loss": 0.17857142857142858,
+    "congestion_edges": 5,
+    "reward": 15.38349829007248,
+    "step": 9,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.267533271857277,
+    "throughput": 67.55975859918618,
+    "packet_loss": 0.17857142857142858,
+    "congestion_edges": 5,
+    "reward": 16.34844665811293,
+    "step": 10,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.397224696440243,
+    "throughput": 63.54474748699268,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.021954755020538,
+    "step": 11,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.491873351215768,
+    "throughput": 55.474268864019756,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 12.5534868407409,
+    "step": 12,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.637823445993154,
+    "throughput": 61.57525012678173,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.310806172180799,
+    "step": 13,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.766113442522568,
+    "throughput": 61.72700300489572,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.29218703735029,
+    "step": 14,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.860031378863999,
+    "throughput": 55.900402451233326,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 12.497247903080853,
+    "step": 15,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 7.988626217234112,
+    "throughput": 68.21432291910028,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 16.127126624255883,
+    "step": 16,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.083467593382306,
+    "throughput": 69.26324534587216,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 16.39438266421335,
+    "step": 17,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.178713110463116,
+    "throughput": 62.930024909322036,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.446793774707908,
+    "step": 18,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.282261167260543,
+    "throughput": 75.51451843375868,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 18.170367803640186,
+    "step": 19,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.329802543573804,
+    "throughput": 64.728815553445,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.910886251389455,
+    "step": 20,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.353387243492563,
+    "throughput": 60.91172268998081,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 13.75396604239082,
+    "step": 21,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.389414105778503,
+    "throughput": 55.04398184282671,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 11.975630357101618,
+    "step": 22,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.414186114396042,
+    "throughput": 65.56290438933749,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.118921116746083,
+    "step": 23,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.444279780433526,
+    "throughput": 42.62358570602449,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 8.22207867873344,
+    "step": 24,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.459987401719935,
+    "throughput": 66.78413731490113,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.462390350753227,
+    "step": 25,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.473405203505292,
+    "throughput": 64.55147859618263,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.785883834245,
+    "step": 26,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.503046664375514,
+    "throughput": 67.0839760115195,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.53081232841095,
+    "step": 27,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.515328506984535,
+    "throughput": 61.37930952382372,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 13.813271460797704,
+    "step": 28,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.515066968908883,
+    "throughput": 58.414386782627865,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 12.923925407476775,
+    "step": 29,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.514805461512154,
+    "throughput": 70.11048957996474,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 16.432887000376198,
+    "step": 30,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.514543984790748,
+    "throughput": 62.48200048808681,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.144471011173524,
+    "step": 31,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.514282538741071,
+    "throughput": 67.95426316743416,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.786280538002568,
+    "step": 32,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.514021123359525,
+    "throughput": 64.705602831002,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.811813144763692,
+    "step": 33,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.513759738642507,
+    "throughput": 54.56623515211362,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 11.77013353345569,
+    "step": 34,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.513498384586425,
+    "throughput": 55.29216557951063,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 11.988043338702832,
+    "step": 35,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.51323706118768,
+    "throughput": 49.60488604627116,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 10.281990140430365,
+    "step": 36,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.51297576844268,
+    "throughput": 38.43565967762049,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 6.931352876207666,
+    "step": 37,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.512714506347823,
+    "throughput": 66.57800889760634,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.374188273250844,
+    "step": 38,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.512453274899517,
+    "throughput": 48.43356318052195,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 9.930985173849683,
+    "step": 39,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.51219207409417,
+    "throughput": 54.01174426826151,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 11.604570100574225,
+    "step": 40,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.511930903928182,
+    "throughput": 55.16571000632976,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 11.950890407077692,
+    "step": 41,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.511669764397961,
+    "throughput": 89.60953295735328,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 22.28416786214986,
+    "step": 42,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.511408655499915,
+    "throughput": 64.09484117687313,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.62989088245484,
+    "step": 43,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.51114757723045,
+    "throughput": 64.17231391831575,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 14.653263244022355,
+    "step": 44,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.51088652958597,
+    "throughput": 49.519252063248835,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 10.257475211324522,
+    "step": 45,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.51062551256289,
+    "throughput": 55.8395787098943,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 12.153703713829701,
+    "step": 46,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.510364526157607,
+    "throughput": 73.14868554082433,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 17.34656625631135,
+    "step": 47,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.510103570366539,
+    "throughput": 77.06769343921246,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 18.522399103723323,
+    "step": 48,
+    "semantic_drift": -0.00011729804828064516
+  },
+  {
+    "latency": 8.509842645186094,
+    "throughput": 66.71455850144295,
+    "packet_loss": 0.21428571428571427,
+    "congestion_edges": 6,
+    "reward": 15.416589084982693,
+    "step": 49,
+    "semantic_drift": -0.00011729804828064516
+  }
+]

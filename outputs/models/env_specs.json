@@ -1,0 +1,8 @@
+{
+  "observation_dim": 30,
+  "num_flows": 5,
+  "candidates_per_flow": 3,
+  "num_edges": 28,
+  "graph_nodes": 12,
+  "graph_edges": 28
+}

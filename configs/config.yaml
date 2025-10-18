@@ -1,0 +1,61 @@
+experiment_name: llm-gnn-rl-demo
+seed: 42
+
+paths:
+  data_dir: data/processed
+  logs_dir: logs
+  outputs_dir: outputs
+  models_dir: outputs/models
+  figures_dir: outputs/figures
+  reports_dir: outputs/reports
+
+llm:
+  model_name: distilbert-base-uncased
+  max_length: 64
+  batch_size: 16
+  use_cached_embeddings: true
+
+gnn:
+  input_dim: 16
+  hidden_dim: 64
+  output_dim: 1
+  num_layers: 3
+  dropout: 0.2
+  lr: 0.001
+  weight_decay: 0.0001
+  epochs: 50
+  batch_size: 32
+  window_size: 4
+  prediction_horizon: 1
+
+rl:
+  model_path: "outputs/models/rl_PPO"
+  algo: PPO
+  total_timesteps: 20000
+  learning_rate: 0.0003
+  gamma: 0.99
+  gae_lambda: 0.95
+  n_steps: 2048
+  ent_coef: 0.01
+  vf_coef: 0.5
+
+environment:
+  max_queue: 10000
+  latency_base: 2.0
+  congestion_threshold: 0.8
+  penalty_congestion: 5.0
+  reward_weights:
+    latency: 0.5
+    throughput: 0.3
+    loss: 0.2
+
+evaluation:
+  metrics:
+    - mse
+    - mae
+    - latency
+    - throughput
+    - packet_loss
+    - reward
+  rolling_window: 50
+  save_every: 10
